@@ -22,7 +22,6 @@ int main(void) {
     const int fontSize = 64;
 
     InitWindow(DEFAULT_WIDTH, DEFAULT_HEIGHT, "WE ARE IN!!!");
-    ToggleFullscreen();
 
     Vector2 pos = {(float)DEFAULT_WIDTH, (float)DEFAULT_HEIGHT};
 
