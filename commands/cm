@@ -1,0 +1,3 @@
+#!/bin/sh
+    vim ~/game/src/main.c
+

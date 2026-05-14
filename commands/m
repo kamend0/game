@@ -1,0 +1,3 @@
+#!/bin/sh
+  exec make CFLAGS="-Wall -Wextra" CXXFLAGS="-Wall -Wextra" "$@"
+
